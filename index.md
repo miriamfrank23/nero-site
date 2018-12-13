@@ -4,3 +4,4 @@
 
 layout: home
 ---
+hi - this is the home page - mf
